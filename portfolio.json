@@ -1,0 +1,16 @@
+{
+    "details":[
+        {
+        "currency": "BTC",
+        "amount": 0.01
+        },
+        {
+        "currency": "ETH",
+        "amount": 0.1
+        },
+        {
+        "currency": "USDT",
+        "amount": 1000
+        }
+    ]
+}
